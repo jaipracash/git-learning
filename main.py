@@ -1,4 +1,5 @@
 def add():
-    print(12+12)
+    return 14+14
 
-add()
+
+print(add())
