@@ -1,5 +1,6 @@
 def add():
-    return 14+14
+    a = 12
+    b = 23
+    print(a+b)
 
-
-print(add())
+add()
